@@ -1,4 +1,4 @@
-# 🧠 OpenAI APIs for Dermatology Image Captioning
+# Dermatology Image Captioning
 
 **Dalhousie University | Applied Research in Health Data Science**  
 **Course**: CSCI 6410/4148 / EPAH 6410  
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Project Summary
+## Project Summary
 
 This proposal explores a novel method to assist dermatologists by generating clinically relevant captions for dermatological images.
 
