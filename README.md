@@ -48,4 +48,4 @@ This proposal explores a novel method to assist dermatologists by generating cli
 
 ## 🛡 License
 
-This work is released under the [MIT License](./LICENSE).
+This work is released under the [MIT License](https://github.com/faizansiddiqu007/dermatology-captioning-proposal/blob/main/LICENCE).
