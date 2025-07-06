@@ -25,7 +25,7 @@ This proposal explores a novel method to assist dermatologists by generating cli
 
 ## 📄 Full Proposal
 
-> 📂 [`proposal/OpenAI_APIs_for_Dermatology_Image_Captioning.pdf`](./proposal/OpenAI_APIs_for_Dermatology_Image_Captioning.pdf)
+> 📂 [`proposal/OpenAI_APIs_for_Dermatology_Image_Captioning.pdf`](https://github.com/faizansiddiqu007/dermatology-captioning-proposal/blob/main/proposal/CSCI%206410%20Research%20Proposal.pdf)
 
 ---
 
